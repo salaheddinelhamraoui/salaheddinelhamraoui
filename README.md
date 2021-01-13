@@ -25,9 +25,6 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://salaheddinelhamraoui.com" target="_blank">
-    <img src="https://badges.pufler.dev/visits/salaheddinelhamraoui/puf17640?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://salaheddinelhamraoui.com" target="_blank">
     <img src="https://badges.pufler.dev/years/salaheddinelhamraoui?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://salaheddinelhamraoui.com" target="_blank">
