@@ -28,7 +28,5 @@
   <a href="https://salaheddinelhamraoui.com" target="_blank">
     <img src="https://badges.pufler.dev/repos/salaheddinelhamraoui?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://salaheddinelhamraoui.com" target="_blank">
-    <img src="https://badges.pufler.dev/commits/monthly/salaheddinelhamraoui?style=flat-square&color=black&logo=github">
-  </a>
+
 </p>
