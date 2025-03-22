@@ -5,7 +5,7 @@
 
 ## 💻 Full Stack Developer
 
-Back End Developer based in Casablanca, Morocco with expertise in building modern web applications using React, Next JS, TypeScript, Spring Boot and cloud technologies. Passionate about creating efficient, scalable, and user-friendly interfaces.
+Full Stack Developer based in Casablanca, Morocco with expertise in building modern web applications using React, Next JS, TypeScript, Spring Boot and cloud technologies. Passionate about creating efficient, scalable, and user-friendly interfaces.
 
 ### 🚀 Tech Stack
 
