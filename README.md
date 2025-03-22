@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-salaheddinelhamraoui-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/salaheddinelhamraoui/)
 [![Email](https://img.shields.io/badge/Email-salah.infospace%40gmail.com-red?style=flat-square&logo=gmail)](mailto:salah.infospace@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=react)](https://github.com/salaheddinelhamraoui)
 
 ## 💻 Full Stack Developer
 
