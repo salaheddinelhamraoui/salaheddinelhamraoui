@@ -40,14 +40,6 @@ const techStack = {
 - **Full-Stack Developer** @ Arvallo *(Dec 2021 - Aug 2022)*
   - Developed solutions with React JS, PHP, and Cordova
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salaheddinelhamraoui&show_icons=true&theme=radical)
-
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddinelhamraoui&layout=compact&theme=radical)
-
 ### 📫 How to reach me:
 
 - 📧 Email: salah.infospace@gmail.com
