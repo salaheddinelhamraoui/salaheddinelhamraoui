@@ -28,7 +28,7 @@ const techStack = {
   - Implementing scalable and reusable frontend architecture
   - Ensuring consistent UI/UX across multiple applications
 
-- **Front End Developer** @ [Popety.io](https://popety.io) *(Mar 2023 - Sep 2024)*
+- **Full Stack Developer** @ [Popety.io](https://popety.io) *(Mar 2023 - Sep 2024)*
   - Developed and maintained frontend features using React
   - Integrated Mapbox for advanced geospatial data visualization
   - Implemented dynamic reporting with JSreport
