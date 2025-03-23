@@ -43,7 +43,6 @@ const techStack = {
 ### 📫 How to reach me:
 
 - 📧 Email: salah.infospace@gmail.com
-- 📱 Phone: +212 672 64 44 16
 - 🔗 LinkedIn: [salaheddinelhamraoui](https://www.linkedin.com/in/salaheddinelhamraoui/)
 
 ---
